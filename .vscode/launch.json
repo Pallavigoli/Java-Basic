@@ -1,0 +1,150 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exampleAPP",
+            "request": "launch",
+            "mainClass": "MULTITHREADING.Example1.exampleAPP",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "illegalApp",
+            "request": "launch",
+            "mainClass": "interfaceing.illegalApp",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "WhatsApp",
+            "request": "launch",
+            "mainClass": "WhatsApp",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "phonechar",
+            "request": "launch",
+            "mainClass": "OOPS.OVERRIDDING.phonechar",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "v",
+            "request": "launch",
+            "mainClass": "OOPS.ENCAPSULATION.v",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "v",
+            "request": "launch",
+            "mainClass": "v",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.INHERITENCE.Main",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "Panagram",
+            "request": "launch",
+            "mainClass": "Panagram",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "freq",
+            "request": "launch",
+            "mainClass": "freq",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "reg",
+            "request": "launch",
+            "mainClass": "reg",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "NUMBER.random",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "DeveloperApp",
+            "request": "launch",
+            "mainClass": "OOPS.INHERITENCE.devBDW.DeveloperApp",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "Stringlen",
+            "request": "launch",
+            "mainClass": "Recersive.Stringlen",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.OVERRIDDING.Main",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "type": "java",
+            "name": "reverse2",
+            "request": "launch",
+            "mainClass": "reverse2",
+            "projectName": "jBasic_16f56aa0"
+        },
+        {
+            "name": "C/C++: c_cpp_properties.json build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "c:\\Users\\pavan\\Desktop\\c lag\\.vscode",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: c_cpp_properties.json build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
